@@ -47,7 +47,7 @@ public class MyServlet extends HttpServlet {
 //		System.out.println("The Entered city by the cline is : "+inputData);
 //		doGet(request, response);
 //		SETUP API KEY
-		String apiKey = "555c09d367723b63cec4581dca68ce39";
+		String apiKey = "API KEY";
 		// Get the city from the form input
         String city = request.getParameter("city"); 
 
